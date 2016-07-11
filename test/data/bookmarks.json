@@ -1,0 +1,57 @@
+[
+  {
+    "_id": { "$oid": "012345678901234567890011" },
+    "title": "a1",
+    "url": "http://google.com",
+    "description": "a2",
+    "isProtected": true,
+    "datePublished": { "$date": "2015-03-15T00:00:00.000Z" },
+    "dateCreated": { "$date": "2016-06-30T00:00:00.000Z" },
+    "stars": 3,
+    "tags": ["a", "b", "c"]
+  },
+  {
+    "_id": { "$oid": "012345678901234567890012" },
+    "title": "a1",
+    "url": "http://google.com",
+    "description": "a2",
+    "isProtected": true,
+    "datePublished": { "$date": "2015-03-16T00:00:00.000Z" },
+    "dateCreated": { "$date": "2016-06-30T00:00:00.000Z" },
+    "stars": 3,
+    "tags": ["a", "b", "c"]
+  },
+  {
+    "_id": { "$oid": "012345678901234567890013" },
+    "title": "a1",
+    "url": "http://google.com",
+    "description": "a2",
+    "isProtected": true,
+    "datePublished": { "$date": "2015-03-17T00:00:00.000Z" },
+    "dateCreated": { "$date": "2016-06-30T00:00:00.000Z" },
+    "stars": 3,
+    "tags": ["a", "b", "c"]
+  },
+  {
+    "_id": { "$oid": "012345678901234567890002" },
+    "title": "b1",
+    "url": "http://google.com",
+    "description": "b2",
+    "isProtected": true,
+    "datePublished": { "$date": "2015-03-15T00:00:00.000Z" },
+    "dateCreated": { "$date": "2016-06-30T00:00:00.000Z" },
+    "stars": 4,
+    "tags": ["c", "d", "e"]
+  },
+  {
+    "_id": { "$oid": "012345678901234567890003" },
+    "title": "c1",
+    "url": "http://google.com",
+    "description": "c2",
+    "isProtected": true,
+    "datePublished": { "$date": "2015-03-15T00:00:00.000Z" },
+    "dateCreated": { "$date": "2016-06-30T00:00:00.000Z" },
+    "stars": 5,
+    "tags": ["e", "f", "g"]
+  }
+]
